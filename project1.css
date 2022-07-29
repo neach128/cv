@@ -1,0 +1,200 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    background-color: aliceblue;
+
+}
+
+.nav{
+
+    /* border: 2px solid black; */
+    height: fit-content;
+    width: 100vw;
+    overflow: hidden;
+    display: inline-block;
+
+
+}
+
+.h1{
+
+    /* border: 2px solid black; */
+    display: inline-block;
+    height: 8vh;
+    width: 15vw;
+    margin-top: 10px;
+    color: black;
+    margin-left: 20px;
+    font-family: Palatino;
+    
+
+}
+
+.contains{
+
+    /* border: 2px solid black; */
+    height: 8vh;
+    width: 50vw;
+    display: inline-block;
+    padding-top: 10px;
+    margin-left: 100px;
+
+}
+
+.phone{
+
+    /* border: 2px solid black; */
+    height: 8vh;
+    width: 10vw;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: x-large;
+    margin-left: 100px;
+
+
+}
+
+.centre{
+
+    /* border: 2px solid black; */
+    height: fit-content;
+    width: 100vw;
+    overflow: hidden;
+    
+    
+
+}
+
+.box{
+
+    border: 2px solid black;
+    height: fit-content;
+    width: 100vw;
+    display: flex;
+    overflow: hidden;
+    
+
+
+}
+
+ul li {
+
+    display: inline-block;
+    
+
+}
+
+.pics{
+
+    height: 50vh;
+    width: 100vw;
+    background-image: url(/slimbook_pro_x_review_5.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    
+
+}
+
+.container-1{
+    /* border: 2px solid black; */
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+
+}
+
+.container-2{
+    /* border: 2px solid black; */
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.container-3{
+    /* border: 2px solid black; */
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+
+}
+
+.container-4{
+    /* border: 2px solid black; */
+    border-radius: 50%;
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+/* h3 p{
+
+    text-align: center;
+
+} */
+
+.pic-1{
+
+    /* border: 2px solid black; */
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    height: auto;
+    width: 20vw;
+
+}
+
+
+
+i {
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+.new{
+
+    /* background-color: aliceblue;
+    opacity: 0.6;
+	filter: alpha(opacity=60); */
+
+    color:rgb(218, 200, 200);
+
+} 
+
+/* unvisited link */
+a:link {
+  color:dodgerblue;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
